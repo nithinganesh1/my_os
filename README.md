@@ -8,13 +8,13 @@ This checklist outlines all the skills needed and learned while building a custo
 
 | Skill | Description | Done |
 |-------|-------------|------|
-| Linux CLI Basics | Navigation, file operations (`cd`, `ls`, `cp`, etc.) | [ ] |
-| Bash Scripting | Loops, conditions, automation scripts | [ ] |
+| Linux CLI Basics | Navigation, file operations (`cd`, `ls`, `cp`, etc.) | [ done ] |
+| Bash Scripting | Loops, conditions, automation scripts | [ done ] |
 | C Programming | Pointers, structs, functions, memory allocation | [ ] |
 | GCC Usage | Compile and link C programs | [ ] |
 | Makefiles | Write and understand basic `Makefile`s | [ ] |
-| VirtualBox / QEMU | Create and boot virtual machines | [ ] |
-| Git (Optional) | Clone repos, commit changes, version tracking | [ ] |
+| VirtualBox / QEMU | Create and boot virtual machines | [ done ] |
+| Git | Clone repos, commit changes, version tracking | [ done ] |
 
 ---
 
