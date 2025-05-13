@@ -1,4 +1,4 @@
-# 🧠 Nithin's OS Building Skill Checklist
+# 🧠OS Building Skill Checklist
 
 This checklist outlines all the skills needed and learned while building a custom OS using the Linux kernel.
 
